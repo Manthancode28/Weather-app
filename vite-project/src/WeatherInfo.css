@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.info-box {
+    margin-left: 39%;
+    border-radius: 5px;
+    width: 345px;
+    box-shadow: -2px 4px 15px -4px rgb(0, 0, 0);
+    /* background: linear-gradient(135deg, #00feba, #5b548a); */
+}
+
+h1 {
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+}
