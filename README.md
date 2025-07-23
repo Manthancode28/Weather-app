@@ -1,5 +1,5 @@
 # 🌦️ Weather App
-A sleek and responsive weather forecasting web application built using **React** and **Vite**. It allows users to search for any city and get real-time weather updates including temperature, humidity, wind speed, and weather conditions — all powered by a live weather API.
+A sleek and responsive weather forecasting web application built using **React** and **Vite**. It allows users to search for any city and get real-time weather updates including temperature, humidity, wind speed, and weather conditions — all powered by weather API.
 ---
 
 ## 🚀 Features
